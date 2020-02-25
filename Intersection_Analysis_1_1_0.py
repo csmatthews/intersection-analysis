@@ -3,7 +3,7 @@
 # Version: 	   1.1.0
 # Purpose:     Analyzes intersections for crash analysis
 # Author:      Christian Matthews, Rockingham Planning Commission
-#              cmatthews@rpc-nh.org
+#              cmatthews@therpc.org
 # Last Updated: 04/19/2019
 # -----------------------------------------------------------------------------
 # Import System Libraries
