@@ -1,6 +1,6 @@
 # Intersection Analysis Tool
 
-This tool analyzes different datasets to create crash performance measures for an intersection dataset. As it requires private date, the code can only be viewed and not run.
+This tool analyzes different datasets to create crash performance measures for an intersection dataset. As it requires private data, the code can only be viewed and not run.
 
 
 ## Download and View
